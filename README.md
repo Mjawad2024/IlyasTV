@@ -10,9 +10,12 @@ Designed for Android Phones, Android TV, and Google TV, TVApp delivers fast perf
             <h1 >Enjoy smooth streaming in one lightweight app.</h1>
             ILYASTV App gives you a smooth, powerful, and customizable streaming experience. Simple, fast, and easy control.
             Fully compatible with Android phones, Tablets, TV boxes, and Android TV.
+            <p></p>
              <p> - No external player needed. </p>
              <p>   - Enjoy your favorite content across multiple categories.</p>
               <p>  - Build your own playlists, and mark your favorites with one tap.</p>
          
           
              
+<img width="1226" height="576" alt="Image7" src="https://github.com/user-attachments/assets/cd8a7f63-384b-46e6-a919-8758bfc7e877" />
+<img width="969" height="457" alt="Image8" src="https://github.com/user-attachments/assets/35ec53b2-7a2f-4688-80b7-c62647cd1b29" />

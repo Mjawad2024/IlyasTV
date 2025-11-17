@@ -6,7 +6,7 @@ Designed for Android Phones, Android TV, and Google TV, TVApp delivers fast perf
 
 <p align="center">
 
-<img width="1490" height="2157" alt="picture3" src="https://github.com/user-attachments/assets/51a3c94a-eb26-42d3-98bb-d56ea8e41e44" />
+<img width="1570" height="1407" alt="picture3" src="https://github.com/user-attachments/assets/55a8bc8d-94cd-4f2b-90c0-d83220a49d58" />
 
 
 <img width="672" height="531" alt="picture2" src="https://github.com/user-attachments/assets/9faea8bb-3fa2-43a2-a984-00fb9b6a5b5b" />

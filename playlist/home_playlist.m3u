@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="Radio" tvg-logo="" tvg-id="radio" group-title="News",Bein Sport News
+#EXTINF:-1 tvg-name="Radio" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=256&q=75" tvg-id="radio" group-title="News",Bein Sport News
 http://092025.online:2086/live/BGSH2LIy3S/0329233700/279330.ts
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=256&q=75",Bein Sport SD1,
 http://092025.online:2086/live/BGSH2LIy3S/0329233700/279313.ts

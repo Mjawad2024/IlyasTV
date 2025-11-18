@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1" tvg-logo="http://tvchallenge.tn/logo/beinsport/bein.png" group-title="BEINSPORTS*",Beinsport 1
+#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1" tvg-logo="https://images.seeklogo.com/logo-png/24/1/bein-sport-1-logo-png_seeklogo-249530.png" group-title="BEINSPORTS*",Beinsport 1
 http://tv.iptv-chal.net:2052/38633241/92643634/172
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSNEWSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinnews.png" group-title="BEINSPORTS*",Beinsport News HD
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSNEWSHD*" tvg-logo="https://images.seeklogo.com/logo-png/24/1/bein-sport-1-logo-png_seeklogo-249530.png" group-title="BEINSPORTS*",Beinsport News HD
 http://tv.iptv-chal.net:2052/38633241/92643634/173
 #EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsporthd.png" group-title="BEINSPORTS*",Beinsport HD
 http://tv.iptv-chal.net:2052/38633241/92643634/175

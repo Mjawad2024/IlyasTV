@@ -1,155 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="---------TUNISIE---------*" tvg-logo="http://tvchallenge.tn/logo/tunisia/tunisia.png" group-title="TUNISIE*",---------TUNISIE---------*
-http://tv.iptv-chal.net:2052/38633241/92643634/1
-#EXTINF:-1 tvg-ID="" tvg-name="TN:WATANIA1*" tvg-logo="http://im.challenge.tn/tunisie/watania1.png" group-title="TUNISIE*",TN:WATANIA1*
-http://tv.iptv-chal.net:2052/38633241/92643634/2
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:WATANIA1*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania1.png" group-title="TUNISIE*",TNT:WATANIA1*
-http://tv.iptv-chal.net:2052/38633241/92643634/109
-#EXTINF:-1 tvg-ID="" tvg-name="TN:WATANIA2*" tvg-logo="http://im.challenge.tn/tunisie/watania2.png" group-title="TUNISIE*",TN:WATANIA2*
-http://tv.iptv-chal.net:2052/38633241/92643634/3
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:WATANIA2*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania2.png" group-title="TUNISIE*",TNT:WATANIA2*
-http://tv.iptv-chal.net:2052/38633241/92643634/111
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ELHIWAR*" tvg-logo="" group-title="TUNISIE*",TN:ELHIWAR*
-http://tv.iptv-chal.net:2052/38633241/92643634/4
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:ELHIWAR*" tvg-logo="http://tvchallenge.tn/logo/tunisia/elhiwar.jpg" group-title="TUNISIE*",TNT:ELHIWAR*
-http://tv.iptv-chal.net:2052/38633241/92643634/113
-#EXTINF:-1 tvg-ID="" tvg-name="TN:CARTHAGE+*" tvg-logo="http://tvchallenge.tn/logo/tunisia/carthage.jpg" group-title="TUNISIE*",TN:CARTHAGE+*
-http://tv.iptv-chal.net:2052/38633241/92643634/8
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:CARTHAGE+*" tvg-logo="http://tvchallenge.tn/logo/tunisia/carthage.jpg" group-title="TUNISIE*",TNT:CARTHAGE+*
-http://tv.iptv-chal.net:2052/38633241/92643634/125
-#EXTINF:-1 tvg-ID="" tvg-name="TN:JAWHARA.TV*" tvg-logo="" group-title="TUNISIE*",TN:JAWHARA.TV*
-http://tv.iptv-chal.net:2052/38633241/92643634/35
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:JAWHARA.TV*" tvg-logo="" group-title="TUNISIE*",TNT:JAWHARA.TV*
-http://tv.iptv-chal.net:2052/38633241/92643634/170
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ALINSEN.TV*" tvg-logo="http://tvchallenge.tn/logo/tunisia/alinsen.jpg" group-title="TUNISIE*",TN:ALINSEN.TV*
-http://tv.iptv-chal.net:2052/38633241/92643634/37
-#EXTINF:-1 tvg-ID="" tvg-name="TNT:ALINSEN.TV*" tvg-logo="http://tvchallenge.tn/logo/tunisia/alinsen.jpg" group-title="TUNISIE*",TNT:ALINSEN.TV*
-http://tv.iptv-chal.net:2052/38633241/92643634/145
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ZAYTOONA*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/zitoun10.jpg" group-title="TUNISIE*",TN:ZAYTOONA*
-http://tv.iptv-chal.net:2052/38633241/92643634/33
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ALMUSTAKILA*" tvg-logo="" group-title="TUNISIE*",TN:ALMUSTAKILA*
-http://tv.iptv-chal.net:2052/38633241/92643634/38
-#EXTINF:-1 tvg-ID="" tvg-name="TN:TELEVISION1" tvg-logo="http://tvchallenge.tn/logo/tunisia/television1.jpg" group-title="TUNISIE*",TN:TELEVISION1
-http://tv.iptv-chal.net:2052/38633241/92643634/39
-#EXTINF:-1 tvg-ID="" tvg-name="TN:MATCH1*" tvg-logo="" group-title="TUNISIE*",TN:MATCH1*
-http://tv.iptv-chal.net:2052/38633241/92643634/11
-#EXTINF:-1 tvg-ID="" tvg-name="TN:MATCH2*" tvg-logo="" group-title="TUNISIE*",TN:MATCH2*
-http://tv.iptv-chal.net:2052/38633241/92643634/12
-#EXTINF:-1 tvg-ID="" tvg-name="TN:CHOUFLIHALL*" tvg-logo="http://im.challenge.tn/tunisie/choufli.7all.jpg" group-title="TUNISIE*",TN:CHOUFLIHALL*
-http://tv.iptv-chal.net:2052/38633241/92643634/13
-#EXTINF:-1 tvg-ID="" tvg-name="TN:5OTAB.3AL.BEB*" tvg-logo="http://tvchallenge.tn/logo/series.tunisia/khotab.png" group-title="TUNISIE*",TN:5OTAB.3AL.BEB*
-http://tv.iptv-chal.net:2052/38633241/92643634/15
-#EXTINF:-1 tvg-ID="" tvg-name="TN:STAGIAIRE" tvg-logo="http://im.challenge.tn/tunisie/stagiaire.jpg" group-title="TUNISIE*",TN:STAGIAIRE
-http://tv.iptv-chal.net:2052/38633241/92643634/30
-#EXTINF:-1 tvg-ID="" tvg-name="TN:TAALILA" tvg-logo="http://im.challenge.tn/tunisie/taalila.jpg" group-title="TUNISIE*",TN:TAALILA
-http://tv.iptv-chal.net:2052/38633241/92643634/13369
-#EXTINF:-1 tvg-ID="" tvg-name="TN:LOUTIL*" tvg-logo="http://tv.challenge.tn/logo/series.tunisia/loutil.jpg" group-title="TUNISIE*",TN:LOUTIL*
-http://tv.iptv-chal.net:2052/38633241/92643634/18
-#EXTINF:-1 tvg-ID="" tvg-name="TN:3AND.3ZAIEZ*" tvg-logo="http://tv.challenge.tn/logo/series.tunisia/3and.3zaiez.jpg" group-title="TUNISIE*",TN:3AND.3ZAIEZ*
-http://tv.iptv-chal.net:2052/38633241/92643634/19
-#EXTINF:-1 tvg-ID="" tvg-name="TN:JARI.YA.HAMOUDA*" tvg-logo="http://tv.challenge.tn/logo/series.tunisia/jari.hamouda.jpg" group-title="TUNISIE*",TN:JARI.YA.HAMOUDA*
-http://tv.iptv-chal.net:2052/38633241/92643634/20
-#EXTINF:-1 tvg-ID="" tvg-name="TN:DAR.EL5LE3A*" tvg-logo="http://tvchallenge.tn/logo/series.tunisia/dar.el5le3a.jpg" group-title="TUNISIE*",TN:DAR.EL5LE3A*
-http://tv.iptv-chal.net:2052/38633241/92643634/21
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ALFITNA" tvg-logo="http://im.challenge.tn/tunisie/fitna.jpg" group-title="TUNISIE*",TN:ALFITNA
-http://tv.iptv-chal.net:2052/38633241/92643634/6
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ARRIERE.ELGODEM" tvg-logo="http://im.challenge.tn/tunisie/arriere.jpg" group-title="TUNISIE*",TN:ARRIERE.ELGODEM
-http://tv.iptv-chal.net:2052/38633241/92643634/76
-#EXTINF:-1 tvg-ID="" tvg-name="TN:FALOUJA*" tvg-logo="http://ac.iptv-chal.net/AKOAM/FALOUJA.jpg" group-title="TUNISIE*",TN:FALOUJA*
-http://tv.iptv-chal.net:2052/38633241/92643634/22
-#EXTINF:-1 tvg-ID="" tvg-name="TN:BARA2A*" tvg-logo="" group-title="TUNISIE*",TN:BARA2A*
-http://tv.iptv-chal.net:2052/38633241/92643634/24
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ELFOUNDOU*" tvg-logo="https://media.elcinema.com/uploads/_315x420_75c2c2eb5a5d8ee54e0346f2517875cc479cc7d33fabd83ad3870286f2b5c470.jpg" group-title="TUNISIE*",TN:ELFOUNDOU*
-http://tv.iptv-chal.net:2052/38633241/92643634/25
-#EXTINF:-1 tvg-ID="" tvg-name="TN:WATANIA1P6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania1.png" group-title="TUNISIE*",TN:WATANIA1P6*
-http://tv.iptv-chal.net:2052/38633241/92643634/40
-#EXTINF:-1 tvg-ID="" tvg-name="TN:WATANIA2P6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania2.png" group-title="TUNISIE*",TN:WATANIA2P6*
-http://tv.iptv-chal.net:2052/38633241/92643634/41
-#EXTINF:-1 tvg-ID="" tvg-name="TN:ELHIWARP6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/elhiwar.jpg" group-title="TUNISIE*",TN:ELHIWARP6*
-http://tv.iptv-chal.net:2052/38633241/92643634/42
-#EXTINF:-1 tvg-ID="" tvg-name="TN:MOZAIQUEFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/mozaiquefm.jpg" group-title="TUNISIE*",TN:MOZAIQUEFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/45
-#EXTINF:-1 tvg-ID="" tvg-name="TN:IFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/ifm.png" group-title="TUNISIE*",TN:IFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/46
-#EXTINF:-1 tvg-ID="" tvg-name="TN:EXPRESSFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/shemsfm.jpg" group-title="TUNISIE*",TN:EXPRESSFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/47
-#EXTINF:-1 tvg-ID="" tvg-name="TN:JAWHARAFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/jawharafm.jpg" group-title="TUNISIE*",TN:JAWHARAFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/49
-#EXTINF:-1 tvg-ID="" tvg-name="TN:OXYGENEFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/oxygenefm.jpg" group-title="TUNISIE*",TN:OXYGENEFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/59
-#EXTINF:-1 tvg-ID="" tvg-name="TN:SFAXFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/sfax.jpg" group-title="TUNISIE*",TN:SFAXFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/73
-#EXTINF:-1 tvg-ID="" tvg-name="TN:MONASTIRFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/monastir.jpg" group-title="TUNISIE*",TN:MONASTIRFM*
-http://tv.iptv-chal.net:2052/38633241/92643634/82
-#EXTINF:-1 tvg-ID="" tvg-name="---------BEINSPORTS---------*" tvg-logo="http://tvchallenge.tn/logo/beinsport/bein.png" group-title="BEINSPORTS*",---------BEINSPORTS---------*
+#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1" tvg-logo="http://tvchallenge.tn/logo/beinsport/bein.png" group-title="BEINSPORTS*",Beinsport 1
 http://tv.iptv-chal.net:2052/38633241/92643634/172
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSNEWSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinnews.png" group-title="BEINSPORTS*",BEINSPORTSNEWSHD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSNEWSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinnews.png" group-title="BEINSPORTS*",Beinsport News HD
 http://tv.iptv-chal.net:2052/38633241/92643634/173
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsporthd.png" group-title="BEINSPORTS*",BEINSPORTSHD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSHD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsporthd.png" group-title="BEINSPORTS*",BEINSPORTS HD*
 http://tv.iptv-chal.net:2052/38633241/92643634/175
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS1HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS 1 HD*
 http://tv.iptv-chal.net:2052/38633241/92643634/177
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS1HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS 1 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/178
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS1LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar1.png" group-title="BEINSPORTS*",BEINSPORTS 1 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/179
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS2HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS 2 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/180
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS2HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS 2 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/181
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS2LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar2.png" group-title="BEINSPORTS*",BEINSPORTS 2 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/184
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS3HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS 3 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/185
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS3HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS 3 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/186
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS3LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS3LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar3.png" group-title="BEINSPORTS*",BEINSPORTS 3 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/187
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS4HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS 4 HD*
 http://tv.iptv-chal.net:2052/38633241/92643634/189
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS4HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS 4 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/190
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS4LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS4LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar4.png" group-title="BEINSPORTS*",BEINSPORTS 4 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/191
 #EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS5HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar5.png" group-title="BEINSPORTS*",BEINSPORTS5HD*
 http://tv.iptv-chal.net:2052/38633241/92643634/200
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS5HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar5.png" group-title="BEINSPORTS*",BEINSPORTS5HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS5HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar5.png" group-title="BEINSPORTS*",BEINSPORTS 5 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/201
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS5LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar5.png" group-title="BEINSPORTS*",BEINSPORTS5LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS5LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar5.png" group-title="BEINSPORTS*",BEINSPORTS 5 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/202
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS6HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS 6 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/203
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS6HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS 6 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/209
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS6LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS6LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar6.png" group-title="BEINSPORTS*",BEINSPORTS 6 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/211
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS7HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS 7 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/214
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS7HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS 7 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/225
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS7LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS7LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar7.png" group-title="BEINSPORTS*",BEINSPORTS 7 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/228
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS8HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS 8 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/230
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS8HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS 8 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/231
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS8LOW*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS8LOW*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar8.png" group-title="BEINSPORTS*",BEINSPORTS 8 LOW
 http://tv.iptv-chal.net:2052/38633241/92643634/232
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS9HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS 9 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/234
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS9HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS 9 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/236
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9SD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS9SD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS9SD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar9.png" group-title="BEINSPORTS*",BEINSPORTS 9 SD
 http://tv.iptv-chal.net:2052/38633241/92643634/237
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS.XTRA1HD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS XTRA 1 HD
 http://tv.iptv-chal.net:2052/38633241/92643634/238
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS.XTRA1HD:2090*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1HD:2090*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS XTRA 1 FHD
 http://tv.iptv-chal.net:2052/38633241/92643634/239
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1SD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS.XTRA1SD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.XTRA1SD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/beinsportar10.png" group-title="BEINSPORTS*",BEINSPORTS XTRA 1 SD
 http://tv.iptv-chal.net:2052/38633241/92643634/240
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2.XTRAHD*" tvg-logo="" group-title="BEINSPORTS*",BEINSPORTS2.XTRAHD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS2.XTRAHD*" tvg-logo="" group-title="BEINSPORTS*",BEINSPORTS 2 XTRA HD
 http://tv.iptv-chal.net:2052/38633241/92643634/241
-#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.AFCHD*" tvg-logo="" group-title="BEINSPORTS*",BEINSPORTS.AFCHD*
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS.AFCHD*" tvg-logo="" group-title="BEINSPORTS*",BEINSPORTS.AFCHD
 http://tv.iptv-chal.net:2052/38633241/92643634/242
 #EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTS1.ENGLISH.HD*" tvg-logo="http://tvchallenge.tn/logo/beinsport/bein11.png" group-title="BEINSPORTS*",BEINSPORTS1.ENGLISH.HD*
 http://tv.iptv-chal.net:2052/38633241/92643634/243

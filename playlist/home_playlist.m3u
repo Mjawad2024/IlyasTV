@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=256&q=75" group-title="BEINSPORTS*",Beinsport 1
+#EXTINF:-1 tvg-ID="" tvg-name="M6*" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp" group-title="FRANCE*",M6*
+http://tv.iptv-chal.net:2052/38633241/92643634/277
+#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 1" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp" group-title="BEINSPORTS*",Beinsport 1
 http://tv.iptv-chal.net:2052/38633241/92643634/172
 #EXTINF:-1 tvg-ID="" tvg-name="BEINSPORTSNEWSHD*" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=03-06-2025?w=256&q=75" group-title="BEINSPORTS*",Beinsport News HD
 http://tv.iptv-chal.net:2052/38633241/92643634/173

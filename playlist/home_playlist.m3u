@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-ID="" tvg-name="beIN 4K (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-4k-qa.png" group-title="BeIN Sports 4K (H.265)",beIN 4K (H.265)
-http://splustv.me:80/65787/54353/72144
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 1 4K (H265)
 http://splustv.me:80/65787/54353/18088
 #EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 2 4K (H265)

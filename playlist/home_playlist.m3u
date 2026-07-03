@@ -1,4 +1,6 @@
-#EXTM3U #EXTINF:-1 group-title="Info Grup" tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-27.png",Telegram https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
+#EXTM3U 
+
+#EXTINF:-1 group-title="Info Grup" tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-27.png",Telegram https://www.image2url.com/r2/default/videos/1780722336322-26ebf407-0aef-4b03-857d-32cbf856697a.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WORLD CUP 2026⚽", WORLD CUP 2026 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
